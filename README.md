@@ -3,6 +3,10 @@ Group name :Dream team
 members : P2321041 Jorven 
           P2322403 Vito 	
           P2320462 Brian 	
+Software image input and output display
+<img width="864" alt="8160e468db1f7bdac22230a6b183210" src="https://github.com/user-attachments/assets/3f64f9a8-da21-4197-9d2e-79385be0e3bd" />
+<img width="1023" alt="149ec74c5fd84ce0aa58ad5a9ffd8df" src="https://github.com/user-attachments/assets/740fd8cd-006e-4d1e-9cb8-564a0ef96513" />
+
 Software development process adopted: Agile development
 Choosing agile development over a waterfall model:
     More flexible to adapt to changes in requirements, and requirements may be adjusted (such as adding new GUI functions).
