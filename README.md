@@ -2,7 +2,8 @@ A customizable QR code generator developed based on Python that supports both co
 
 Group name :Dream team
 
-members : P2321041 Jorven 
+members : 
+          P2321041 Jorven 
           
           P2322403 Vito 	
           
@@ -105,11 +106,12 @@ Existing software features: 1. Generate QR codes
 
 Future Plans   Functions to be developed: Batch generation (CSV import) , Dynamic QR code (URL tracking) , Optimize the GUI user experience.
 
-Division of labor: P2321041 Jorven   1.Generate QR code 2.Decode QR code 5.Exit
+Division of labor: 
+                    P2321041 Jorven   1.Generate QR code 2.Decode QR code 5.Exit
                    
-                   P2322403 Vito     3. Analyze the QR code and readme writing
+                    P2322403 Vito     3. Analyze the QR code and readme writing
                    
-                   P2320462 Brian    4.Launch the GUI interface and Video Debriefing
+                    P2320462 Brian    4.Launch the GUI interface and Video Debriefing
 
 Domo (Youtube url）
 
@@ -118,7 +120,7 @@ python
 
 1. Data encoding → 2. Reed-Solomon → 3. Module Arrangement → 4. Render the image
 
-Operating environment requirements
+Operating environment requirements：
 
 Programming language         Python 3.8+
 
