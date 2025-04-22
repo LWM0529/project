@@ -115,7 +115,7 @@ Division of labor:
                    
                     P2320462 Brian    4.Launch the GUI interface and Video Debriefing
 
-Domo (Youtube url）
+Domo (Youtube url）: https://youtu.be/SoDMzaJg6WQ
 
 Core algorithms
 python
